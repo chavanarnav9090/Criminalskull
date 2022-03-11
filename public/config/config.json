@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xFB4cf7815aC74f352407300B3219d52D565e4ad1",
+  "SCAN_LINK": "https://polygonscan.com/address/0xFB4cf7815aC74f352407300B3219d52D565e4ad1",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Criminal Skull",
+  "SYMBOL": "CSNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3843000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Criminalskull",
+  "SHOW_BACKGROUND": true
+}
